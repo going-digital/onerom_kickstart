@@ -1,13 +1,13 @@
 {
     "$schema": "https://images.onerom.org/configs/schema.json",
     "version": 1,
-    "name": "Kickstarts 1,2,3 for A600",
-    "description": "Kickstarts version V1.3 r34.004, V2.05 r37.350 and V3.1 r40.063 for A600",
+    "name": "Kickstarts 1,2,3 for A500+",
+    "description": "Kickstarts version V1.3 r34.004, V2.04 r37.175 and V3.1 r40.063 for A500",
     "categories": [
         "firmware",
         "amiga",
         "kickstart",
-        "a600"
+        "a500+"
     ],
     "rom_sets": [
         {
@@ -25,13 +25,13 @@
         },
         {
             "type": "single",
-            "description": "Kickstart V2.05 r37.350 (A600HD)",
+            "description": "Kickstart V2.04 r37.175 (A500+)",
             "roms": [
                 {
-                    "description": "Kickstart V2.05 r37.350 (A600HD)",
+                    "description": "Kickstart V2.04 r37.175 (A500+)",
                     "type": "27C400",
-                    "file": "https://archive.org/download/commodore-amiga-firmware/Kickstart%20v2.05%20r37.350%20%281992-04%29%28Commodore%29%28A600HD%29%5B%21%5D.zip",
-                    "extract": "Kickstart v2.05 r37.350 (1992-04)(Commodore)(A600HD)[!].rom",
+                    "file": "https://archive.org/download/commodore-amiga-firmware/Kickstart%20v2.04%20r37.175%20%281991-05%29%28Commodore%29%28A500%2B%29%5B%21%5D.zip",
+                    "extract": "Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[!].rom",
                     "license": "Confirm you are legitimately licensed for this ROM from Commodore or Cloanto."
                 }
             ]
