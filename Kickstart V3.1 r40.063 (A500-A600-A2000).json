@@ -1,0 +1,27 @@
+{
+    "$schema": "https://images.onerom.org/configs/schema.json",
+    "version": 1,
+    "name": "Kickstart V3.1 r40.063 (A500/A600/A2000)",
+    "description": "Kickstart V3.1 r40.063 (A500/A600/A2000)",
+    "categories": [
+        "firmware",
+        "amiga",
+        "kickstart",
+        "a500",
+        "a600",
+        "a2000"
+    ],
+    "rom_sets": [
+       {
+            "type": "single",
+            "roms": [
+                {
+                    "description": "Kickstart V3.1 r40.063 (A500/A600/A2000)",
+                    "file": "https://archive.org/download/commodore-amiga-firmware/Kickstart%20v3.1%20r40.063%20%281993-07%29%28Commodore%29%28A500-A600-A2000%29%5B%21%5D.zip",
+                    "extract": "Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[!].rom",
+                    "type": "27C400"
+                }
+           ] 
+        }
+    ]
+}
