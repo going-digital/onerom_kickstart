@@ -1,0 +1,53 @@
+{
+    "$schema": "https://images.onerom.org/configs/schema.json",
+    "version": 1,
+    "name": "Kickstarts 1,2,3 for A600",
+    "description": "Kickstarts version V1.3 r34.004, V2.05 r37.350 and V3.1 r40.063 for A600",
+    "categories": [
+        "firmware",
+        "amiga",
+        "kickstart",
+        "a500",
+        "a1000",
+        "a2000",
+        "cdtv"
+    ],
+    "rom_sets": [
+        {
+            "type": "single",
+            "description": "Kickstart V1.3 r34.004 (A500-A1000-A2000-CDTV)",
+            "roms": [
+                {
+                    "type": "27C200",
+                    "description": "Kickstart V1.3 r34.004 (A500-A1000-A2000-CDTV)",
+                    "file": "https://archive.org/download/commodore-amiga-firmware/Kickstart%20v1.3%20r34.005%20%281987-12%29%28Commodore%29%28A500-A1000-A2000-CDTV%29%5B%21%5D.zip",
+                    "extract": "Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[!].rom"
+                }
+            ]
+        },
+        {
+            "type": "single",
+            "description": "Kickstart V2.05 r37.350 (A600HD)",
+            "roms": [
+                {
+                    "type": "27C400",
+                    "description": "Kickstart V2.05 r37.350 (A600HD)",
+                    "file": "https://archive.org/download/commodore-amiga-firmware/Kickstart%20v2.05%20r37.350%20%281992-04%29%28Commodore%29%28A600HD%29%5B%21%5D.zip",
+                    "extract": "Kickstart v2.05 r37.350 (1992-04)(Commodore)(A600HD)[!].rom"
+                }
+            ]
+        },
+        {
+            "type": "single",
+            "description": "Kickstart V3.1 r40.063 (A500/A600/A2000)",
+            "roms": [
+                {
+                    "description": "Kickstart V3.1 r40.063 (A500/A600/A2000)",
+                    "file": "https://archive.org/download/commodore-amiga-firmware/Kickstart%20v3.1%20r40.063%20%281993-07%29%28Commodore%29%28A500-A600-A2000%29%5B%21%5D.zip",
+                    "extract": "Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[!].rom",
+                    "type": "27C400"
+                }
+            ]
+        }
+    ]
+}
