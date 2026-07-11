@@ -29,7 +29,7 @@
             "roms": [
                 {
                     "description": "DiagROM V2.0",
-                    "type": "27C200",
+                    "type": "27C400",
                     "file": "https://github.com/going-digital/onerom_kickstart/raw/refs/heads/main/archive.bin",
                     "extract": "swapped_32bitHI.bin"
                 }

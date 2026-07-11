@@ -43,7 +43,7 @@
                 {
                     "description": "DiagROM V2.0",
                     "type": "27C400",
-                    "file": "archive.bin",
+                    "file": "https://github.com/going-digital/onerom_kickstart/raw/refs/heads/main/archive.bin",
                     "extract": "swapped_16bit.bin"
                 }
             ]
