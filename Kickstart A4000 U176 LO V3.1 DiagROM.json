@@ -1,0 +1,39 @@
+{
+    "$schema": "https://images.onerom.org/configs/schema.json",
+    "version": 1,
+    "name": "Kickstart 3.1 / DiagROM 2.0 for A4000, low ROM",
+    "description": "Kickstart 3.1 / DiagROM 2.0 for A4000, low ROM",
+    "categories": [
+        "firmware",
+        "amiga",
+        "kickstart",
+        "a4000"
+    ],
+    "rom_sets": [
+        {
+            "type": "single",
+            "description": "Kickstart V3.1 r40.068",
+            "roms": [
+                {
+                    "description": "Kickstart V3.1 r40.068",
+                    "type": "27C200",
+                    "file": "https://github.com/going-digital/onerom_kickstart/raw/refs/heads/main/archive.bin",
+                    "extract": "Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[!].LO.bin",
+                    "license": "Confirm you are legitimately licensed for this ROM from Commodore or Cloanto."
+                }
+            ]
+        },
+        {
+            "type": "single",
+            "description": "DiagROM V2.0",
+            "roms": [
+                {
+                    "description": "DiagROM V2.0",
+                    "type": "27C200",
+                    "file": "https://github.com/going-digital/onerom_kickstart/raw/refs/heads/main/archive.bin",
+                    "extract": "swapped_32bitLO.bin"
+                }
+            ]
+        }
+    ]
+}
