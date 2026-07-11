@@ -12,7 +12,7 @@
     "rom_sets": [
         {
             "type": "single",
-            "description": "Kickstart V1.3 r34.004 (A500-A1000-A2000-CDTV)",
+            "description": "Kickstart V1.3 r34.004",
             "roms": [
                 {
                     "description": "Kickstart V1.3 r34.004 (A500-A1000-A2000-CDTV)",
@@ -25,7 +25,7 @@
         },
         {
             "type": "single",
-            "description": "Kickstart V2.05 r37.350 (A600HD)",
+            "description": "Kickstart V2.05 r37.350",
             "roms": [
                 {
                     "description": "Kickstart V2.05 r37.350 (A600HD)",
@@ -38,7 +38,7 @@
         },
         {
             "type": "single",
-            "description": "Kickstart V3.1 r40.063 (A500/A600/A2000)",
+            "description": "Kickstart V3.1 r40.063",
             "roms": [
                 {
                     "description": "Kickstart V3.1 r40.063 (A500/A600/A2000)",

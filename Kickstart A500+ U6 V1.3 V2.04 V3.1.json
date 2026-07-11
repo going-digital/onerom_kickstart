@@ -1,8 +1,8 @@
 {
     "$schema": "https://images.onerom.org/configs/schema.json",
     "version": 1,
-    "name": "Kickstarts 1,2,3 for A500+",
-    "description": "Kickstarts version V1.3 r34.004, V2.04 r37.175 and V3.1 r40.063 for A500",
+    "name": "Kickstarts 1.3, 2.04 and 3.1 for A500+",
+    "description": "Kickstarts version V1.3 r34.005, V2.04 r37.175 and V3.1 r40.063 for A500+",
     "categories": [
         "firmware",
         "amiga",
@@ -12,10 +12,10 @@
     "rom_sets": [
         {
             "type": "single",
-            "description": "Kickstart V1.3 r34.004 (A500-A1000-A2000-CDTV)",
+            "description": "Kickstart V1.3 r34.005",
             "roms": [
                 {
-                    "description": "Kickstart V1.3 r34.004 (A500-A1000-A2000-CDTV)",
+                    "description": "Kickstart V1.3 r34.005 (A500-A1000-A2000-CDTV)",
                     "type": "27C200",
                     "file": "https://github.com/going-digital/onerom_kickstart/raw/refs/heads/main/archive.bin",
                     "extract": "Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[!].swapped.bin",
@@ -25,7 +25,7 @@
         },
         {
             "type": "single",
-            "description": "Kickstart V2.04 r37.175 (A500+)",
+            "description": "Kickstart V2.04 r37.175",
             "roms": [
                 {
                     "description": "Kickstart V2.04 r37.175 (A500+)",
@@ -38,7 +38,7 @@
         },
         {
             "type": "single",
-            "description": "Kickstart V3.1 r40.063 (A500/A600/A2000)",
+            "description": "Kickstart V3.1 r40.063",
             "roms": [
                 {
                     "description": "Kickstart V3.1 r40.063 (A500/A600/A2000)",
