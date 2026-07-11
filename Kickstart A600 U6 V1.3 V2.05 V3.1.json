@@ -17,8 +17,8 @@
                 {
                     "description": "Kickstart V1.3 r34.004 (A500-A1000-A2000-CDTV)",
                     "type": "27C200",
-                    "file": "https://archive.org/download/commodore-amiga-firmware/Kickstart%20v1.3%20r34.005%20%281987-12%29%28Commodore%29%28A500-A1000-A2000-CDTV%29%5B%21%5D.zip",
-                    "extract": "Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[!].rom",
+                    "file": "https://github.com/going-digital/onerom_kickstart/raw/refs/heads/main/archive.bin",
+                    "extract": "Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[!].swapped.bin",
                     "license": "Confirm you are legitimately licensed for this ROM from Commodore or Cloanto."
                 }
             ]
@@ -31,7 +31,7 @@
                     "description": "Kickstart V2.05 r37.350 (A600HD)",
                     "type": "27C400",
                     "file": "https://github.com/going-digital/onerom_kickstart/raw/refs/heads/main/archive.bin",
-                    "extract": "Kickstart v2.05 r37.350 (1992-04)(Commodore)(A600HD)[!].rom",
+                    "extract": "Kickstart v2.05 r37.350 (1992-04)(Commodore)(A600HD)[!].swapped.bin",
                     "license": "Confirm you are legitimately licensed for this ROM from Commodore or Cloanto."
                 }
             ]
@@ -44,7 +44,7 @@
                     "description": "Kickstart V3.1 r40.063 (A500/A600/A2000)",
                     "type": "27C400",
                     "file": "https://github.com/going-digital/onerom_kickstart/raw/refs/heads/main/archive.bin",
-                    "extract": "Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[!].rom",
+                    "extract": "Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[!].swapped.bin",
                     "license": "Confirm you are legitimately licensed for this ROM from Commodore or Cloanto."
                 }
             ]
